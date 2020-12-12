@@ -1,5 +1,6 @@
 # Node.js MVC application
 
+Online shop application. User could signup/login in application, create some products, edit own products and buy products. 
 
 ## Technologies stack
 
