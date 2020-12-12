@@ -1,27 +1,17 @@
 # Node.js MVC application
 
-# Technologies stack
 
-* [Express](https://expressjs.com/) - web framework for Node.js
+## Technologies stack
 
-
-
-
-
-
-  "bcryptjs": "^2.4.3",
-    "body-parser": "^1.18.3",
-    "connect-flash": "^0.1.1",
-    "connect-mongodb-session": "^2.4.1",
-    "csurf": "^1.11.0",
-    "ejs": "^2.6.1",
-    "express": "^4.16.3",
-    "express-handlebars": "^3.0.0",
-    "express-session": "^1.17.1",
-    "express-validator": "^6.7.0",
-    "mongodb": "^3.6.3",
-    "mongoose": "^5.10.15",
-    "multer": "^1.4.2",
-    "nodemailer": "^6.4.16",
-    "nodemailer-sendgrid-transport": "^0.2.0",
-    "pdfkit": "^0.11.0"
+* [Express](https://expressjs.com/) - web framework for node.js
+* [EJS](https://ejs.co/) - embedded JavaScript templating
+* [body-parser](https://www.npmjs.com/package/body-parser) - node.js body parsing middleware
+* [express-session](https://www.npmjs.com/package/express-session) - session middleware
+* [express-validator](https://express-validator.github.io/docs/) - set of express.js middlewares that wraps validator.js validator and sanitizer functions
+* [mongoose](https://mongoosejs.com/) - elegant mongodb object modeling for node.js
+* [connect-mongodb-session](https://www.npmjs.com/package/connect-mongodb-session) - MongoDB-backed session storage for connect and Express
+* [bcrypt.js](https://www.npmjs.com/package/bcryptjs) - optimized bcrypt in JavaScript with zero dependencies
+* [csurf](https://github.com/expressjs/csurf) - node.js CSRF protection middleware
+* [multer](https://www.npmjs.com/package/multer) - node.js middleware for handling multipart/form-data, which is primarily used for uploading files
+* [Nodemailer](https://nodemailer.com/about/) - a module for node.js applications to allow easy as cake email sending
+* [pdfkit](https://pdfkit.org/) - PDFKit is a PDF document generation library for node.js
